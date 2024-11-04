@@ -42,7 +42,7 @@ I'm a **Penetration Tester** by profession, breaking systems, and discovering vu
 
 - [**Active Directory Security Toolkit**](https://github.com/yourusername/AD-Security-Toolkit): A toolkit to automate common AD pentesting tasks.
 - [**Chat Application in Java**](https://github.com/yourusername/JavaChatApp): A two-way communication system using Java sockets and ServerSocket.
-- [**Cyber Awareness Blog**](https://github.com/yourusername/CyberAwareness): Content for Cybersecurity Awareness Month, focusing on best practices and real-world cases.
+- [**Cyber Awareness Blog**]([https://github.com/yourusername/CyberAwareness](https://medium.com/@xhita77)): Content for Cybersecurity Awareness Month, focusing on best practices and real-world cases.
 
 ---
 
